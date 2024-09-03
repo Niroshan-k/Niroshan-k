@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Niroshan K.</h1>
 <h3 align="center">A passionate computer science 💻  student from Sri Lanka 🇱🇰 .</h3>
 <img align="right"  src="77caa32884d735d439ade45ba37feaf2.gif">
-<p align="left"> <img align="right" alt="codig" width"400" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif"> </p>
 
 - 📚 I’m currently learning **Computer science .**
 
-- 💬 Ask me about **Blender, Css, Html, Mathematics**
+- 💬 I have little knowledge about **Blender, Css, Html, Mathematics, C, C++, Godot, .etc**
 
 - 📫 How to reach me **lakshanniroshan822@gmail.com**
 
