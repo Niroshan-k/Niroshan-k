@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **lakshanniroshan822@gmail.com**
 
-- ⚡ Fun fact **I like music & anime**
+- ⚡ Fun fact **I like music, kickboxing, anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
