@@ -1,46 +1,64 @@
-<h1 align="center">Hi, I'm Niroshan K.</h1>
-<h3 align="center">A passionate computer science 💻  student from Sri Lanka 🇱🇰 .</h3>
-<img align="right"  src="77caa32884d735d439ade45ba37feaf2.gif">
+<h1 align="center">Hi, I'm Niroshan K. 👋</h1>
+<h3 align="center">🚀 A passionate Computer Science student from Sri Lanka 🇱🇰</h3>
 
-- 📚 I’m currently learning **Computer science .**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+love+creating+things+I+wish+existed.;Game+Dev+%7C+AI+Learner+%7C+Creative+Thinker" alt="Typing SVG" />
+</p>
 
-- 💬 I have little knowledge about **Blender, Css, Html, Mathematics, C, C++, Godot, .etc**
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="250" />
 
-- 📫 How to reach me **lakshanniroshan822@gmail.com**
+---
 
-- ⚡ Fun fact **I like music, kickboxing, anime**
+- 🎓 I’m currently studying **Computer Science**
+- 💡 Exploring AI, Game Dev, and Creative Coding
+- 🎮 Working with tools like **Blender**, **Godot**, and **Unity**
+- 📫 Reach me at: **lakshanniroshan822@gmail.com**
+- 🎧 Fun facts: I love music, kickboxing, and anime 🥋🎶
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" alt="Godot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Neovim-mark.svg" width="40" height="40" alt="Neovim"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niroshan-k&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroshan-k&layout=compact&theme=tokyonight" width="47%" />
+</div>
+
+---
+
+### 📲 Connect with me
+
+<p align="center">
+  <a href="https://www.facebook.com/niroshan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
-</p>
-<br>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroshan-k&show_icons=true&locale=en&layout=compact" alt="niroshan-k" />
-</p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroshan-k&show_icons=true&locale=en" alt="niroshan-k" /></p>
-
-<p align="right">Connect with me:</p>
-<p align="right">
-<a href="https://fb.com/niroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niroshan" height="30" width="40" /></a>
-<a href="https://instagram.com/niroshan__3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niroshan__3d" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/niroshan__3d" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30" />
+  </a>
 </p>
 
+---
+
+<p align="center">
+  ✨ *“Creating the things I wish existed.”* ✨
+</p>
