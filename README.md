@@ -4,8 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+love+creating+things+I+wish+existed.;Game+Dev+%7C+AI+Learner+%7C+Creative+Thinker" alt="Typing SVG" />
 </p>
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="250" />
+<br>
 
 ---
 
