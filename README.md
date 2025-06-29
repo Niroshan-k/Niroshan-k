@@ -45,19 +45,6 @@
 
 ---
 
-### 📲 Connect with me
-
-<p align="center">
-  <a href="https://www.facebook.com/niroshan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" />
-  </a>
-  <a href="https://www.instagram.com/niroshan__3d" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30" />
-  </a>
-</p>
-
----
-
 <p align="center">
   ✨ *“Creating the things I wish existed.”* ✨
 </p>
