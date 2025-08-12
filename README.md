@@ -1,50 +1,117 @@
-<h1 align="center">Hi, I'm Niroshan K. 👋</h1>
-<h3 align="center">🚀 A passionate Computer Science student from Sri Lanka 🇱🇰</h3>
+</h1>
+<h2 align="center">Niroshan K</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+love+creating+things+I+wish+existed.;" alt="Typing SVG" />
-</p>
+<h4 align="center">I'm currently pursuing a Bachelor's degree in Computer Science. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies, game development, and AI engineering.</h4>
+
+
+ <div align="center">
+<!-- Profile Views -->
+<a href="https://github.com/Niroshan-k" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Niroshan-k&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" />
+</a>
+
+<!-- Total Stars with GitHub Logo -->
+<a href="https://github.com/Niroshan-k?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/Niroshan-k?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
+</a>
+
+<!-- Followers with GitHub Logo -->
+<a href="https://github.com/Niroshan-k?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/Niroshan-k?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
+</div>
+<!-- about me -->
+ <h3 align="center">😏 About Me</h3>
+
+<h4> 
+  🟣I am currently working on and developing my programming & Artist skills.</br>
+  🟣Interest in AI/ML, Indie Game Development, Software Development.</br>
+ </h4> <div align="center"> 
+
+
+ <h3>🫡 Connect with me :</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="mailto:lakshanniroshan822@gmail.com">
+        <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/niroshan-k" target="_blank">
+        <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.threads.net/@niroshan__k" target="_blank">
+        <img width="60px" src="https://tse2.mm.bing.net/th/id/OIP.Xe6J0aVVY8v9DAGCeYgI9gHaHa?cb=thfc1&w=768&h=768&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Threads Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+</div>
+<br/>
+
+<!-- git stat-->
+<h3 align="center">🤖 Github Status</h3>
 <br>
-
----
-
-- 🎓 I’m currently studying **Computer Science**
-- 💡 Exploring AI, Game Dev, and Creative Coding
-- 🎮 Working with tools like **Blender**, **Godot**, and **Unity**
-- 📫 Reach me at: **lakshanniroshan822@gmail.com**
-- 🎧 Fun facts: I love music, kickboxing, and anime 🥋🎶
-
----
-
-### 🧰 Languages & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" alt="Godot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center" background="black" border="round">
-  <img src="https://github-readme-stats.vercel.app/api?username=niroshan-k&show_icons=true&theme=tokyonight" width="47%" height="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroshan-k&layout=compact&theme=tokyonight" width="47%" height="400px" />
+<div align="center">
+  <img width="395" src="https://github-readme-stats.vercel.app/api?username=Niroshan-k&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Niroshan-k&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+</div>
+  
 </div>
 
----
+<br/><br/>
 
-<p align="center">
-  ✨ *“Creating the things I wish existed.”* ✨
-</p>
+
+
+<!-- lang-->
+<h3 align="center">📚 Languages & tools</h3>
+<div align="center">
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroshan-k&layout=compact&theme=nord&hide_border=false" />
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,unity,blender,react,nextjs,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=vite,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=c,bash,kali,ts,go,python,javascript,mysql,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,visualstudio,neovim,godot,pwsh" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,angular,apple,cmake,dart,docker,eclipse,firebase,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,linux,nix,npm,obsidian,opencv,php,postman,pytorch" /><br>
+</div>
+<br/>
+
+
+
+
+<!-- top repo and tech stack-->
+<div align="center">
+  <h3>🔥 Best Repositories</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Niroshan-k/Study-AI-ML">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Niroshan-k&repo=Study-AI-ML&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    </a>
+    <a href="https://github.com/Niroshan-k/DimoraMernProject">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Niroshan-k&repo=DimoraMernProject&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    </a>
+    <a href="https://github.com/Niroshan-k/Treasure-Hunt">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Niroshan-k&repo=Treasure-Hunt&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    </a>
+    <a href="https://github.com/Niroshan-k/Machine-Learning">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Niroshan-k&repo=Machine-Learning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    </a>
+  </div>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
+
