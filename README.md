@@ -85,28 +85,6 @@
 </div>
 <br/>
 
-
-
-
-<!-- top repo and tech stack-->
-<div align="center">
-  <h3>🔥 Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Niroshan-k/Study-AI-ML">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Niroshan-k&repo=Study-AI-ML&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-    <a href="https://github.com/Niroshan-k/DimoraMernProject">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Niroshan-k&repo=DimoraMernProject&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-    <a href="https://github.com/Niroshan-k/Treasure-Hunt">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Niroshan-k&repo=Treasure-Hunt&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-    <a href="https://github.com/Niroshan-k/Machine-Learning">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Niroshan-k&repo=Machine-Learning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-  </div>
-</div>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 
