@@ -47,11 +47,6 @@
         <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" />
       </a>
     </td>
-    <td>
-      <a href="https://www.threads.net/@niroshan__k" target="_blank">
-        <img width="60px" src="https://tse2.mm.bing.net/th/id/OIP.Xe6J0aVVY8v9DAGCeYgI9gHaHa?cb=thfc1&w=768&h=768&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Threads Badge" />
-      </a>
-    </td>
   </tr>
 </table>
 
