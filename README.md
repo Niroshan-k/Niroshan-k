@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1G2hHi6X3CJMpSkcMNY1A05jiI6O7Nv3E" alt="Profile Header GIF" width="100%"/>
+  <img src="Untitled_Project_V1.gif" alt="Profile Header GIF" width="100%"/>
 </div>
 
 # Hi, I'm Niroshan 👋
