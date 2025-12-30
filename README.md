@@ -1,13 +1,36 @@
-<div align="center">
-  <img src="Untitled_Project_V1.gif" alt="Profile Header GIF" width="100%"/>
-</div>
+Summer Spring GIF by The Line Animation.gif
+giphy.gif
 
-# Hi, I'm Niroshan 👋
+<table border="0" width="100%">
+  <tr>
+    <td width="35%" align="center" valign="center">
+      <img src="giphy.gif" alt="Cyberpunk Box" width="100%" style="border-radius: 10px;">
+    </td>
+    <td width="65%" valign="center">
+      <h1>>_ 𝙽𝙸𝚁𝙾𝚂𝙷𝙰𝙽 𝙺.</h1>
+      <h3>// Aspiring AI-Driven Quantitative Developer</h3>
+      <p>Combining high-performance engineering with deep learning.</p>
+      
+      <p>
+        <a href="https://www.linkedin.com/in/niroshan-k">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+        </a>
+        <a href="mailto:lakshanniroshan822@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Send_Packet-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-I am a Computer Science undergraduate based in **Kandy, Sri Lanka**.
+<br/>
 
-My ultimate goal is to become an **AI-Driven Quantitative Developer**, combining high-performance engineering with machine learning.
+### 🟢 `// SYSTEM_STATUS & LOCATION`
 
-### 📫 Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/niroshan-k)
-* [Email](mailto:lakshanniroshan822@gmail.com)
+```diff
+! [CURRENT_LOCATION]: Kandy, Sri Lanka
++ [ROLE]:             CS Undergraduate
+# [CURRENT_FOCUS]:    Building ML models from scratch (Math + Code) to grasp the core fundamentals.
+- [GOAL]:             Mastering low-level systems (C++) for high-speed AI applications.
+
+<div align="center"> <img src="Summer Spring GIF by The Line Animation.gif" alt="Footer GIF" width="100%" style="border-radius: 10px;"> </div>
