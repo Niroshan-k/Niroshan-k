@@ -26,6 +26,6 @@
 ```diff
 ! [CURRENT_LOCATION]: Kandy, Sri Lanka
 + [ROLE]:             CS Undergraduate
-# [CURRENT_FOCUS]:    Building ML models from scratch (Math + Code) to grasp the core fundamentals.
-- [GOAL]:             Mastering low-level systems (C++) for high-speed AI applications.
+# [CURRENT_FOCUS]:    Building ML models from scratch (Math + Code) to grasp the core fundamentals. 
+- [GOAL]:             Mastering low-level systems (C++, Rust) for high-speed AI applications.
 ```
