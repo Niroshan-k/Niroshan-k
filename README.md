@@ -29,3 +29,6 @@
 # [CURRENT_FOCUS]:    Building ML models from scratch (Math + Code) to grasp the core fundamentals. 
 - [GOAL]:             Mastering low-level systems (C++, Rust) for high-speed AI applications.
 ```
+```ini
+[ ROOT_USER_LOG: Dreaming of writing the final algorithm that fixes this world. ]
+```
