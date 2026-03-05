@@ -1,34 +1,48 @@
-<table border="0">
-  <tr>
-    <td width="35%" align="center" valign="center">
-      <img src="giphy.gif" alt="Cyberpunk Box" width="300px" height="300px" style="border-radius: 10px;">
-    </td>
-    <td width="65%" valign="center">
-      <h1>>_ 𝙽𝙸𝚁𝙾𝚂𝙷𝙰𝙽 𝙺.</h1>
-      <h3>// Aspiring AI-Driven Quantitative Developer</h3>
-      <p>Combining high-performance engineering with deep learning.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
-<p>
-  <a href="https://www.linkedin.com/in/niroshan-k">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:lakshanniroshan822@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Packet-EA4335?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
+<img src="giphy.gif" width="280px" style="border-radius: 12px;" alt="Cyberpunk"/>
 
-// SYSTEM_STATUS & LOCATION`
+# `>_ NIROSHAN K.`
+### `// Quantitative ML Engineer · C++ · Python`
 
+*Building systems where mathematics meets markets.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niroshan-k)
+[![Email](https://img.shields.io/badge/Email-Send_Packet-EA4335?style=for-the-badge&logo=gmail)](mailto:lakshanniroshan822@gmail.com)
+
+</div>
+
+---
 ```diff
-! [CURRENT_LOCATION]: Kandy, Sri Lanka
-+ [ROLE]:             CS Undergraduate
-# [CURRENT_FOCUS]:    Building ML models from scratch (Math + Code) to grasp the core fundamentals. 
-- [GOAL]:             Mastering low-level systems (C++, Rust) for high-speed AI applications.
+! [LOCATION]  : Kandy, Sri Lanka
++ [STATUS]    : CS Undergraduate · Final Year
+# [DOMAIN]    : Quantitative Finance · AI/ML Systems · High-Performance Computing
+- [STACK]     : Python · C++ · PyMC · XGBoost · PyBind11 · Streamlit
 ```
+
+---
+
+## `>_ CORE SYSTEMS DEPLOYED`
+
+| Project | Tech | What it does |
+|---|---|---|
+| 🔴 [Regime-Adaptive Algorithmic Trader](https://github.com/Niroshan-k/Regime-Adaptive-Algorithmic-Trader) | `K-Means · XGBoost · GitHub Actions` | Detects market regimes, swaps specialist models in real-time. Live on Streamlit. |
+| 🟡 [Bayesian PSO Portfolio Optimizer](https://github.com/Niroshan-k/Bayesian-Swarn-Portfolio-Optimizer) | `C++ · PyBind11 · PyMC · MCMC` | C++ swarm engine + Bayesian inference for robust Sharpe-maximizing allocation. |
+| 🟢 [Bayesian Credit Risk Engine](https://github.com/Niroshan-k/Bayesian-Credit-Risk-Engine) | `PyMC · ArviZ · Streamlit` | Probabilistic SME loan default scoring with dynamic interest rate pricing. |
+| 🔵 [Event-Driven Simulation Framework](https://github.com/Niroshan-k/Event-Driven-Simulation-Framework) | `C++` | *(In progress)* Final year project — low-latency market simulation engine. |
+| ⚪ [Backtest Engine](https://github.com/Niroshan-k/backtest-engine) | `Python` | Custom backtesting framework for strategy validation. |
+
+---
+
+## `>_ WHAT I BUILD FROM SCRATCH`
+```ini
+[ML_CORE]     : Supervised · Unsupervised · Neural Nets · Backpropagation
+[OPTIMIZERS]  : PSO (C++) · Neuroevolution · Gradient Descent
+[FINANCE]     : Portfolio Theory · Regime Detection · Credit Risk · Bayesian Inference
+[INFRA]       : Docker · GitHub Actions · Streamlit Cloud deployment
+```
+
+---
 ```ini
 [ ROOT_USER_LOG: Dreaming of writing the final algorithm that fixes this world. ]
 ```
