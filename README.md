@@ -1,23 +1,29 @@
-<div align="center">
-
-<img src="giphy.gif" width="280px" style="border-radius: 12px;" alt="Cyberpunk"/>
-
-# `>_ NIROSHAN K.`
-### `// Quantitative ML Engineer · C++ · Python`
-
-*Building systems where mathematics meets markets.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niroshan-k)
-[![Email](https://img.shields.io/badge/Email-Send_Packet-EA4335?style=for-the-badge&logo=gmail)](mailto:lakshanniroshan822@gmail.com)
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="giphy.gif" width="260px" style="border-radius: 12px;" alt="Cyberpunk"/>
+    </td>
+    <td width="65%" valign="middle">
+      <h1><code>>_ NIROSHAN K.</code></h1>
+      <h3><code>// Quantitative ML Engineer · C++ · Python</code></h3>
+      <p><em>Building systems where mathematics meets markets.</em></p>
+      <a href="https://www.linkedin.com/in/niroshan-k">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      </a>
+      &nbsp;
+      <a href="mailto:lakshanniroshan822@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Send_Packet-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ```diff
 ! [LOCATION]  : Kandy, Sri Lanka
 + [STATUS]    : CS Undergraduate · Final Year
 # [DOMAIN]    : Quantitative Finance · AI/ML Systems · High-Performance Computing
-- [STACK]     : Python · C++ · PyMC · XGBoost · PyBind11 · Streamlit
+- [LANGUAGES]     : Python · C++ ·
 ```
 
 ---
