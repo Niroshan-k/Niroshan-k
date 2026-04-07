@@ -5,7 +5,7 @@
     </td>
     <td width="65%" valign="middle">
       <h1><code>>_ NIROSHAN K.</code></h1>
-      <h3><code>// Quantitative ML Engineer · C++ · Python</code></h3>
+      <h3><code>// ML Engineer · C++ · Python</code></h3>
       <p><em>Building systems where mathematics meets markets.</em></p>
       <a href="https://www.linkedin.com/in/niroshan-k">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
