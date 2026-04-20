@@ -47,8 +47,3 @@
 [FINANCE]     : Portfolio Theory · Regime Detection · Credit Risk · Bayesian Inference
 [INFRA]       : Docker · GitHub Actions · Streamlit Cloud deployment
 ```
-
----
-```ini
-[ ROOT_USER_LOG: Dreaming of writing the final algorithm that fixes this world. ]
-```
